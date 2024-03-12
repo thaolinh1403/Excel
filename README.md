@@ -1,4 +1,4 @@
-# Project CRM Automation
+# Project 1: CRM Automation
 ## Dataset
 ### Dataraw from Landing page
 <img width="957" alt="image" src="https://github.com/thaolinh1403/Excel-Sales-dashboard/assets/147386308/82b16ece-c461-42ee-84b2-d33a4882fcd0">
@@ -24,6 +24,20 @@
 <img width="960" alt="image" src="https://github.com/thaolinh1403/Excel-Sales-dashboard/assets/147386308/8faba780-e7d0-4868-be65-d86ce61d384a">
 <img width="960" alt="image" src="https://github.com/thaolinh1403/Excel-Sales-dashboard/assets/147386308/65429709-dd0e-4f07-9ad4-a72c63021840">
 
+# Project 2: Sales Tactical Dashboard
+## Dataset
+### Fact-data
+<img width="960" alt="image" src="https://github.com/thaolinh1403/Excel-Sales-dashboard/assets/147386308/9cb6270a-35e8-40f1-a2e2-3b70e6d5adb9">
 
+### Dim-data
+<img width="960" alt="image" src="https://github.com/thaolinh1403/Excel-Sales-dashboard/assets/147386308/807e646c-2551-4e8c-b890-f829e008bb7c">
+<img width="959" alt="image" src="https://github.com/thaolinh1403/Excel-Sales-dashboard/assets/147386308/03c16b0b-2455-4127-8818-4489cd987016">
+<img width="960" alt="image" src="https://github.com/thaolinh1403/Excel-Sales-dashboard/assets/147386308/7b611b2f-9825-40e3-b4a9-cae227f589fe">
+
+### Fact-data after aggreating
+<img width="959" alt="image" src="https://github.com/thaolinh1403/Excel-Sales-dashboard/assets/147386308/83b792d1-9cac-4b33-9d03-847e58aeb3fd">
+
+## Dashboard
+<img width="960" alt="image" src="https://github.com/thaolinh1403/Excel-Sales-dashboard/assets/147386308/b2ef65f6-a638-4cb0-adb0-bc972b6f99a5">
 
 
